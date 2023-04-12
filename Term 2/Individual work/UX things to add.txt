@@ -5,13 +5,15 @@ Nice front cover
 Table of contents
 Overview of work 
 User Research
-Idea brainstorming
+Summary of User Research
+Idea brainstorming & Design recommendations
 Mood board
 Elevator pitch
 Personas 
 User journey - change style
 Research competitors (include screenshots - maybe an analysis)
-Style guide (font, colour pallet, 
+Style guide (font, colour pallet, logo)
+Priority guide and intent frame
 Break up the flow chart and put next to wireframe 
 Accessibility (colour blind testing)
 Reference page, bibliography, links to design
